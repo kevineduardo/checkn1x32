@@ -1,8 +1,10 @@
 ![](https://git.asineth.gq/asineth/checkn1x/raw/branch/master/icon_dark.png)
 
-# checkn1x
+# checkn1x32
 
 Linux-based distribution for jailbreaking iOS devices w/ checkra1n.
+
+Unoffical 32-bit version.
 
 ## Downloads
 
