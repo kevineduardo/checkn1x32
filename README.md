@@ -1,14 +1,15 @@
 ![](https://git.asineth.gq/asineth/checkn1x/raw/branch/master/icon_dark.png)
 
 # checkn1x32
+[Original Project](https://git.asineth.gq/asineth/checkn1x/)
 
 Linux-based distribution for jailbreaking iOS devices w/ checkra1n.
 
-Unoffical 32-bit version.
+Offical 32 bit support was dropped in checkn1x 1.1.0 and old 32 bit downloads are deleted too. This is an unoffical 32-bit version.
 
 ## Downloads
 
-Downloads are available under [releases](./releases).
+Downloads are available under [releases](https://github.com/Assfugil/checkn1x32/releases/).
 
 ## Usage
 
