@@ -86,7 +86,7 @@ cat << ! > iso/boot/grub/grub.cfg
 insmod all_video
 echo 'checkn1x $VERSION : https://asineth.gq'
 echo 'checkn1x32 repoistory: https://github.com/Assfugil/checkn1x32'
-linux /boot/vmlinuz
+linux /boot/vmlinuz quiet loglevel=3
 initrd /boot/initramfs.xz
 boot
 !
