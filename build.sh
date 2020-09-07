@@ -85,8 +85,8 @@ cp -av rootfs/boot/vmlinuz-lts iso/boot/vmlinuz
 cat << ! > iso/boot/grub/grub.cfg
 insmod all_video
 echo 'checkn1x $VERSION : https://asineth.gq'
-echo 'checkn1x 32 bit port by u/Asdfugil'
-linux /boot/vmlinuz quiet loglevel=3
+echo 'checkn1x32 repoistory: https://github.com/Assfugil/checkn1x32'
+linux /boot/vmlinuz
 initrd /boot/initramfs.xz
 boot
 !

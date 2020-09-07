@@ -8,7 +8,7 @@ Unoffical 32-bit version.
 
 ## Downloads
 
-Downloads are available under [releases](https://git.asineth.gq/asineth/checkn1x/releases).
+Downloads are available under [releases](./releases).
 
 ## Usage
 
